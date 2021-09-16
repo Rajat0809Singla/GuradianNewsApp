@@ -1,5 +1,5 @@
 # GuradianNewsApp
-Guardian News App using open API platform that can be used to consume news published by them.
+Guardian News App(iOS) using open API platform that can be used to consume news published by them.
 
 This app list the news from the Guradian open API using the search keyword "Afganistan".
 
