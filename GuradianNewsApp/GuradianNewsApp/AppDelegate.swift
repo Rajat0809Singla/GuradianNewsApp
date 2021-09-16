@@ -41,6 +41,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 completionHandler(.noData)
             }
         })
+        completionHandler(.newData)
     }
 }
 
